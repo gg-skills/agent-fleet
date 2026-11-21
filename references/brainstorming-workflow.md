@@ -257,7 +257,7 @@ After all agents complete, create a consolidated analysis:
 - <Finding 1>
 - <Finding 2>
 
-**Proposed Package:** `@cloom/<package>`
+**Proposed Package:** `@example/<package>`
 
 ### #2 <System Name>
 
@@ -274,9 +274,9 @@ After all agents complete, create a consolidated analysis:
 Based on cross-analyst consensus:
 
 ```
-@cloom/<package1>/
-@cloom/<package2>/
-@cloom/<package3>/
+@example/<package1>/
+@example/<package2>/
+@example/<package3>/
 ```
 
 ## Next Steps

@@ -19,7 +19,7 @@
  * ```
  *
  * @testing CLI: npx tsx .agents/skills/agent-fleet/scripts/generate-eslint-inventory-agent-fleet-pack.ts --help
- * @see scripts/eslint-inventory/generate.ts - Produces the generated inventory markdown consumed by this CLI.
+ * @see Your project’s ESLint inventory generator for the Markdown this CLI consumes.
  * @see skills/agent-fleet/scripts/agent-fleet-pack-lib.ts - Shared pack writer utilities.
  * @documentation reviewed=2026-05-06 standard=FILE_OVERVIEW_STANDARDS_TYPESCRIPT@3
  */
